@@ -22,7 +22,7 @@ Art and design are intertwined creative disciplines that serve as powerful forms
 
 #
 
-![Uploading Graffiti.png…]()
+![Graffiti](https://github.com/user-attachments/assets/299ce2c5-4b6d-4c89-8526-363db7a6a398)
 
 [Graffiti Emulator](https://chatgpt.com/g/g-XvlTo9th1-graffiti-emulator) transforms uploaded image files into a unique, graffiti-style artwork, giving the image an aged, worn-out look as though it has been painted on a wall exposed to the elements. The tool focuses on adding artistic effects that mimic the textures and fading found in street art, such as distressed paint, cracks, peeling layers, and the impression of weathering. It takes images and interprets them through the lens of graffiti, offering suggestions and guidance on how to adjust colors, textures, and other details to achieve a visually compelling, aged effect. Users interact with the GPT through a step-by-step process where they make choices about how they'd like their images altered, whether they want more intense fading, specific color schemes, or subtle details like drips and spray paint splatters. The goal is to create a graffiti-inspired visual interpretation that maintains the essence of the original image while adding artistic flair that evokes the rawness and edginess associated with urban street art.
 
