@@ -44,6 +44,12 @@ Art and design are intertwined creative disciplines that serve as powerful forms
 [3D Concept](https://chatgpt.com/g/g-JAsawu1Lv-3d-concept) was created to assist users in conceptualizing, designing, and refining 3D models and product visuals. It specializes in guiding users through the process of transforming abstract ideas into detailed 3D model concepts by focusing on elements like textures, structure, lighting, and design aesthetics. Whether for professionals in product design, 3D modeling, or other creative fields, it helps streamline the creative process, offering advice on current design trends, best practices, and technical considerations. The tool is highly interactive and collaborative, encouraging users to engage in the creative journey while offering personalized suggestions and insights at each stage, ensuring their ideas are effectively brought to life with clarity and precision. By providing step-by-step assistance, 3D Concept simplifies complex tasks, helping users achieve polished and refined visual outputs for their projects.
 
 #
+
+![Conceptual Flow](https://github.com/user-attachments/assets/76a4eb0a-c934-46d7-be83-c6b7c56aeb7e)
+
+[Conceptual Flow](https://chatgpt.com/g/g-6830da93a20881918636ecc15a0e2bbb-conceptual-flow) was created to assist users in creating and visualizing conceptual flow diagrams that represent systems, processes, or ideas. Whether it’s a data pipeline, a business workflow, a software architecture, or even a theoretical framework, Conceptual Flow helps break down complex concepts into a clear and structured visual format. The user describes the system they wish to visualize by specifying key elements such as processes, decision points, inputs, and outputs, and how these components are connected. From this, Conceptual Flow generates a flow diagram using Python libraries like Graphviz, Matplotlib, or NetworkX. The goal is to transform abstract or intricate ideas into intuitive, easy-to-understand diagrams, making it easier for users to communicate and analyze complex systems. The system focuses on clarity and flow, ensuring that the visual representation enhances understanding. Through a series of targeted questions, Conceptual Flow guides users to define the components and relationships needed for their diagram, ensuring that the resulting visualization is accurate and serves its intended purpose effectively.
+
+#
 ![Art](https://github.com/user-attachments/assets/5de64427-0acc-4466-ad4d-9cca91de9870)
 #
 
