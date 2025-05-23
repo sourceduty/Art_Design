@@ -48,3 +48,5 @@ Art and design are intertwined creative disciplines that serve as powerful forms
 [Artist Profit](https://chatgpt.com/g/g-67728ee189408191b916b0579c589f46-artist-profit)
 <br>
 [GOOG!E Art](https://chatgpt.com/g/g-go6tOJhOh-goog-e-art)
+<br>
+[3D Concept](https://chatgpt.com/g/g-JAsawu1Lv-3d-concept)
