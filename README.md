@@ -37,6 +37,11 @@ Art and design are intertwined creative disciplines that serve as powerful forms
 
 [Font Character](https://chatgpt.com/g/g-683013a9fdf081918a0641af85330c2d-font-character) was made to help users manipulate and customize font characters with high precision, allowing for extensive edits to both individual letters and complete typefaces. It provides tools for adjusting various aspects of font design, such as resizing, reshaping, repositioning, and altering the weight and style of characters. Users can fine-tune the spacing between letters and symbols by adjusting kerning, leading, and tracking, giving them full control over how text is arranged. Additionally, the GPT supports applying special effects like shadows, gradients, outlines, and textures to enhance the visual appeal of the font. Users can also preview their modifications in real time, seeing how changes affect the overall text structure. The system allows for easy export of modified fonts in a variety of formats, such as SVG and other web-safe font types, making them ready for both print and digital use. Its user-friendly interface is built for accessibility, offering intuitive features like drag-and-drop, sliders, and customizable settings, making it suitable for both beginner and advanced typographers. Whether users want to create a unique logo, enhance a project, or experiment with different visual styles, this GPT serves as a comprehensive tool for creative font design and modification.
 
+#
+
+![Frozen White Iris](https://github.com/user-attachments/assets/8fd192de-9efa-4d4d-906b-0fbb9c79148b)
+
+[3D Concept](https://chatgpt.com/g/g-JAsawu1Lv-3d-concept) was created to assist users in conceptualizing, designing, and refining 3D models and product visuals. It specializes in guiding users through the process of transforming abstract ideas into detailed 3D model concepts by focusing on elements like textures, structure, lighting, and design aesthetics. Whether for professionals in product design, 3D modeling, or other creative fields, it helps streamline the creative process, offering advice on current design trends, best practices, and technical considerations. The tool is highly interactive and collaborative, encouraging users to engage in the creative journey while offering personalized suggestions and insights at each stage, ensuring their ideas are effectively brought to life with clarity and precision. By providing step-by-step assistance, 3D Concept simplifies complex tasks, helping users achieve polished and refined visual outputs for their projects.
 
 #
 ![Art](https://github.com/user-attachments/assets/5de64427-0acc-4466-ad4d-9cca91de9870)
@@ -53,5 +58,3 @@ Art and design are intertwined creative disciplines that serve as powerful forms
 [Artist Profit](https://chatgpt.com/g/g-67728ee189408191b916b0579c589f46-artist-profit)
 <br>
 [GOOG!E Art](https://chatgpt.com/g/g-go6tOJhOh-goog-e-art)
-<br>
-[3D Concept](https://chatgpt.com/g/g-JAsawu1Lv-3d-concept)
