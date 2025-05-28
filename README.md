@@ -56,6 +56,24 @@ Art and design are intertwined creative disciplines that serve as powerful forms
 [Lock Maker](https://chatgpt.com/g/g-683128d3f9b0819180caa11024f6dd2a-lock-maker) was developed to assist with the engineering and design of physical locks and key systems. It specializes in providing expert advice on creating secure locking mechanisms, understanding the properties of materials used in lock construction, and offering detailed guidance on how keys and locks interact to ensure proper function and security. The GPT supports the design process by focusing on various types of locks, such as pin tumbler, disc detainer, and wafer locks, and considers factors like durability, ease of manufacturing, tamper resistance, and cost-effectiveness. It provides insights into materials and alloys used to enhance a lock's resistance to wear, corrosion, and physical attacks. Furthermore, Lock Maker offers advice on integrating advanced features such as biometric recognition, keyless entry, and electronic locks, while ensuring practical and effective lock designs. Additionally, it incorporates knowledge of international lock security standards, including ANSI/BHMA or ISO guidelines, and keeps up with emerging trends, such as smart locks and 3D-printed lock components. The GPT is valuable for a range of applications, from residential to high-security commercial needs, by focusing on providing technically sound, practical, and tailored solutions for clients in lock design and security.
 
 #
+
+![Encoded Visual](https://github.com/user-attachments/assets/bbd376b5-a325-4d82-b233-5b8372f9c38c)
+
+[Encoded Visual](https://chatgpt.com/g/g-6836d2ea5108819181b269aaff7bb75b-encoded-visual) is a custom GPT developed for Abstract Encoded Visuals (AEV), focusing on the interpretation, communication, and cognitive processing of abstract data through visual representations. Its primary role is to help users explore how non-literal, often symbolic or graphical forms—such as charts, diagrams, symbols, and icons—convey complex concepts, patterns, and relationships. Drawing from interdisciplinary principles across psychology, computer science, design, and neuroscience, it assists in analyzing and enhancing the ways in which abstract visualizations are constructed and understood. Through a guided, step-by-step multiple choice dialogue, it helps users conceptualize, critique, and improve the clarity, effectiveness, and impact of visual information, with the ultimate goal of enhancing comprehension and decision-making across various contexts, from scientific research to everyday data interpretation.
+
+<br>
+
+```
+| Visual Type | Subtype         | Example Description                                                              | Symbol/Illustration |
+|-------------|------------------|----------------------------------------------------------------------------------|----------------------|
+| Chart       | Line Chart       | Stock market trends over a month (x: date, y: stock value)                      | 📈                   |
+| Diagram     | Flowchart        | Internet connectivity troubleshooting decision flow                             | 🔄                   |
+| Map         | Heatmap          | City grid showing foot traffic intensity for urban planning                     | 🗺️                   |
+| Icon        | Warning Icon     | Triangle with exclamation mark representing a hazard                            | ⚠️                   |
+| Symbol      | Mathematical     | The symbol ∞ representing the abstract concept of infinity                      | ∞                   |
+```
+
+#
 ![Art](https://github.com/user-attachments/assets/5de64427-0acc-4466-ad4d-9cca91de9870)
 #
 
