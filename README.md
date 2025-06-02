@@ -75,7 +75,7 @@ Art and design are intertwined creative disciplines that serve as powerful forms
 
 #
 
-![Scuffed Angled Yellow PC Case](https://github.com/user-attachments/assets/9b0f88a2-32b6-4b80-b33c-3abd03ac4742)
+![Fish PC Case](https://github.com/user-attachments/assets/b3b49d0e-c53e-4206-9c2c-62c856f2a7c5)
 
 [PC Case Design](https://chatgpt.com/g/g-678adc783a7c81918936700afe7cda4a-pc-case-design) was made to help users through the process of designing and engineering custom PC cases. It helps determine the purpose and specifications of a build, such as hardware compatibility, cooling needs, and airflow dynamics. Through a step-by-step, multiple-choice process, it assists in selecting suitable materials (like aluminum, steel, or tempered glass), internal layouts, fan placements, and cable management systems. It also considers aesthetics, modularity, and customization options, such as RGB lighting or tool-free installation features. Ultimately, it helps users develop a complete, production-ready PC case design with attention to durability, functionality, and manufacturing feasibility.
 
