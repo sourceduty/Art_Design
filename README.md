@@ -69,7 +69,7 @@ Art and design are intertwined creative disciplines that serve as powerful forms
 
 #
 
-![Modern Sphere House Concept 2](https://github.com/user-attachments/assets/ca4bee30-dcc2-4ae4-9de9-46b9dd0718f9)
+![Modern Brick House Concept 3](https://github.com/user-attachments/assets/03d47f82-a1bd-4aaa-805a-7bae44e6f1ec)
 
 [House Design](https://chatgpt.com/g/g-WgXvQZZ5a-house-design) gives users expert guidance on enhancing the outside appearance and functionality of homes, cottages, barns, and buildings. It provides tailored recommendations on architectural styles, color palettes, landscaping strategies, outdoor fixtures, and sustainable practices to suit each user’s specific vision, location, and structural features. By focusing exclusively on exteriors, it ensures a highly relevant and specialized user experience. The GPT engages users through a step-by-step, multiple-choice process to understand their preferences in detail and deliver personalized design concepts. It also supports the creative process by generating digital visualizations and encouraging the use of design software or online tools to mock up ideas before implementation. Additionally, it offers practical advice for maintaining outdoor spaces year-round and incorporating eco-conscious choices to reduce environmental impact. This GPT serves as a comprehensive and interactive tool for anyone aiming to elevate their property's curb appeal, functionality, and environmental harmony.
 
