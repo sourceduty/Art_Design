@@ -81,6 +81,12 @@ Art and design are intertwined creative disciplines that serve as powerful forms
 
 #
 
+![AI](https://github.com/user-attachments/assets/dfd3b163-49af-461f-b16a-d092b16d6685)
+
+[Image Emulator](https://chatgpt.com/g/g-RF3VlAjnL-image-emulator) was made to replicate and transform user-uploaded images into various artistic or stylistic forms using AI-powered image generation. Once a user uploads an image, it prompts them to choose from a wide range of emulation styles—such as photorealistic, retro, vintage, thermal, x-ray, graffiti, and more. After the style is selected, the GPT uses DALL·E to recreate the original image in the chosen aesthetic, enabling users to explore imaginative and visually compelling reinterpretations of their visuals.
+
+#
+
 [Car Design](https://github.com/sourceduty/Car_Design)
 <br>
 [Fashion Design](https://github.com/sourceduty/Fashion_Design)
