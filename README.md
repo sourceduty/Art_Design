@@ -80,11 +80,7 @@ Art and design are intertwined creative disciplines that serve as powerful forms
 [PC Case Design](https://chatgpt.com/g/g-678adc783a7c81918936700afe7cda4a-pc-case-design) was made to help users through the process of designing and engineering custom PC cases. It helps determine the purpose and specifications of a build, such as hardware compatibility, cooling needs, and airflow dynamics. Through a step-by-step, multiple-choice process, it assists in selecting suitable materials (like aluminum, steel, or tempered glass), internal layouts, fan placements, and cable management systems. It also considers aesthetics, modularity, and customization options, such as RGB lighting or tool-free installation features. Ultimately, it helps users develop a complete, production-ready PC case design with attention to durability, functionality, and manufacturing feasibility.
 
 #
-
 ![AI](https://github.com/user-attachments/assets/dfd3b163-49af-461f-b16a-d092b16d6685)
-
-[Image Emulator](https://chatgpt.com/g/g-RF3VlAjnL-image-emulator) was made to replicate and transform user-uploaded images into various artistic or stylistic forms using AI-powered image generation. Once a user uploads an image, it prompts them to choose from a wide range of emulation styles—such as photorealistic, retro, vintage, thermal, x-ray, graffiti, and more. After the style is selected, the GPT uses DALL·E to recreate the original image in the chosen aesthetic, enabling users to explore imaginative and visually compelling reinterpretations of their visuals.
-
 #
 
 [Car Design](https://github.com/sourceduty/Car_Design)
