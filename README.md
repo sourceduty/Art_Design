@@ -80,6 +80,12 @@ Art and design are intertwined creative disciplines that serve as powerful forms
 [PC Case Design](https://chatgpt.com/g/g-678adc783a7c81918936700afe7cda4a-pc-case-design) was made to help users through the process of designing and engineering custom PC cases. It helps determine the purpose and specifications of a build, such as hardware compatibility, cooling needs, and airflow dynamics. Through a step-by-step, multiple-choice process, it assists in selecting suitable materials (like aluminum, steel, or tempered glass), internal layouts, fan placements, and cable management systems. It also considers aesthetics, modularity, and customization options, such as RGB lighting or tool-free installation features. Ultimately, it helps users develop a complete, production-ready PC case design with attention to durability, functionality, and manufacturing feasibility.
 
 #
+
+![Glitch Mutant](https://github.com/user-attachments/assets/b1fbda23-960c-4389-b31f-860bc7207a76)
+
+[Glitch Mutant](https://chatgpt.com/g/g-684e3f4a863c8191a363cdd072f55bd8-glitch-mutant) specializes in generating imaginative sci-fi creatures that appear to be constructed from corrupted pixels, unstable polygons, or fragmented data streams. It creates entities that evoke a sense of technological eeriness—beings that look like they’ve glitched out of digital realities or simulations gone wrong. These creatures often have jagged, shifting forms, shimmer with holographic anomalies, and move in stuttering loops or fractal pulses, as if their code is in constant flux. Glitch Mutant blends uncanny beauty with chaotic abstraction, delivering descriptions that feel like visual hallucinations from a broken machine dreaming in code.
+
+#
 ![AI](https://github.com/user-attachments/assets/dfd3b163-49af-461f-b16a-d092b16d6685)
 #
 
