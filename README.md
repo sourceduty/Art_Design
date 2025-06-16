@@ -16,7 +16,7 @@ Art and design are intertwined creative disciplines that serve as powerful forms
 
 #
 
-![Elite Fine Art](https://github.com/user-attachments/assets/dc57cffe-8f73-4331-9fe6-b30e05ee6de2)
+![AI](https://github.com/user-attachments/assets/dfd3b163-49af-461f-b16a-d092b16d6685)
 
 [Elite Fine Art](https://chatgpt.com/g/g-682f790b03c88191932168a8c76901db-elite-fine-art) was created to to help users create high-end, luxurious, and exclusive artwork through the power of image generation. Whether you're seeking to craft stunning portraits, intricate landscapes, opulent abstract pieces, or even specific interior design elements, this GPT offers a unique experience in transforming creative ideas into exquisite visual masterpieces. It encourages users to provide detailed descriptions of their desired scenes, styles, or concepts, such as a baroque-inspired painting, minimalist modern designs, or dreamlike surreal art, ensuring the final product captures the essence of elite luxury and sophistication. Through this process, users can achieve truly refined and exceptional artwork, whether for private collections, high-end interiors, or artistic portfolios. The tool is also capable of making precise edits to existing images, such as enhancing fine details, adjusting color schemes for elegance, or recreating images in a more exclusive, polished style. Every creation is designed to embody sophistication, class, and timeless beauty, serving as a perfect reflection of the highest standard of artistic craftsmanship.
 
@@ -87,7 +87,7 @@ Art and design are intertwined creative disciplines that serve as powerful forms
 [Glitch Mutant](https://chatgpt.com/g/g-684e3f4a863c8191a363cdd072f55bd8-glitch-mutant) specializes in generating imaginative sci-fi creatures that appear to be constructed from corrupted pixels, unstable polygons, or fragmented data streams. It creates entities that evoke a sense of technological eeriness—beings that look like they’ve glitched out of digital realities or simulations gone wrong. These creatures often have jagged, shifting forms, shimmer with holographic anomalies, and move in stuttering loops or fractal pulses, as if their code is in constant flux. Glitch Mutant blends uncanny beauty with chaotic abstraction, delivering descriptions that feel like visual hallucinations from a broken machine dreaming in code.
 
 #
-![AI](https://github.com/user-attachments/assets/dfd3b163-49af-461f-b16a-d092b16d6685)
+![Skateboard Art](https://github.com/user-attachments/assets/dc57cffe-8f73-4331-9fe6-b30e05ee6de2)
 #
 
 [Car Design](https://github.com/sourceduty/Car_Design)
