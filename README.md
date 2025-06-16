@@ -1,4 +1,4 @@
-![Tush Pinchers](https://github.com/user-attachments/assets/37ee59ec-3d78-4c9e-a59b-377edd5504f0)
+![Pink Squid](https://github.com/user-attachments/assets/7e3fe5b9-601f-4dfd-84d7-0062fa8d134d)
 ![Hand](https://github.com/user-attachments/assets/c9ccec9f-da94-40f1-be67-b29cacbe3b2c)
 
 Art and design are intertwined creative disciplines that serve as powerful forms of human expression, communication, and problem-solving. Art is often viewed as the visual manifestation of an artist's inner thoughts, emotions, and perceptions, using mediums such as painting, sculpture, photography, and digital media to convey ideas or provoke deep contemplation. It is primarily driven by self-expression, aesthetic exploration, and the quest to capture the essence of the human experience. Design, on the other hand, is a more structured and intentional process that focuses on solving specific problems and enhancing functionality while also considering aesthetics.
@@ -16,7 +16,7 @@ Art and design are intertwined creative disciplines that serve as powerful forms
 
 #
 
-![Elite Fine Art](https://github.com/user-attachments/assets/6ad6013e-145d-4435-8cbd-2652687fce31)
+![Elite Fine Art](https://github.com/user-attachments/assets/dc57cffe-8f73-4331-9fe6-b30e05ee6de2)
 
 [Elite Fine Art](https://chatgpt.com/g/g-682f790b03c88191932168a8c76901db-elite-fine-art) was created to to help users create high-end, luxurious, and exclusive artwork through the power of image generation. Whether you're seeking to craft stunning portraits, intricate landscapes, opulent abstract pieces, or even specific interior design elements, this GPT offers a unique experience in transforming creative ideas into exquisite visual masterpieces. It encourages users to provide detailed descriptions of their desired scenes, styles, or concepts, such as a baroque-inspired painting, minimalist modern designs, or dreamlike surreal art, ensuring the final product captures the essence of elite luxury and sophistication. Through this process, users can achieve truly refined and exceptional artwork, whether for private collections, high-end interiors, or artistic portfolios. The tool is also capable of making precise edits to existing images, such as enhancing fine details, adjusting color schemes for elegance, or recreating images in a more exclusive, polished style. Every creation is designed to embody sophistication, class, and timeless beauty, serving as a perfect reflection of the highest standard of artistic craftsmanship.
 
