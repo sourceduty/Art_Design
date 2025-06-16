@@ -1,4 +1,3 @@
-![Pink Squid](https://github.com/user-attachments/assets/7e3fe5b9-601f-4dfd-84d7-0062fa8d134d)
 ![Hand](https://github.com/user-attachments/assets/c9ccec9f-da94-40f1-be67-b29cacbe3b2c)
 
 Art and design are intertwined creative disciplines that serve as powerful forms of human expression, communication, and problem-solving. Art is often viewed as the visual manifestation of an artist's inner thoughts, emotions, and perceptions, using mediums such as painting, sculpture, photography, and digital media to convey ideas or provoke deep contemplation. It is primarily driven by self-expression, aesthetic exploration, and the quest to capture the essence of the human experience. Design, on the other hand, is a more structured and intentional process that focuses on solving specific problems and enhancing functionality while also considering aesthetics.
