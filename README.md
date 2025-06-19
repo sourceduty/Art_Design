@@ -86,7 +86,11 @@ Art and design are intertwined creative disciplines that serve as powerful forms
 [Glitch Mutant](https://chatgpt.com/g/g-684e3f4a863c8191a363cdd072f55bd8-glitch-mutant) specializes in generating imaginative sci-fi creatures that appear to be constructed from corrupted pixels, unstable polygons, or fragmented data streams. It creates entities that evoke a sense of technological eeriness—beings that look like they’ve glitched out of digital realities or simulations gone wrong. These creatures often have jagged, shifting forms, shimmer with holographic anomalies, and move in stuttering loops or fractal pulses, as if their code is in constant flux. Glitch Mutant blends uncanny beauty with chaotic abstraction, delivering descriptions that feel like visual hallucinations from a broken machine dreaming in code.
 
 #
-![Skateboard Art](https://github.com/user-attachments/assets/dc57cffe-8f73-4331-9fe6-b30e05ee6de2)
+
+![Frozen Building](https://github.com/user-attachments/assets/64736e49-c897-4083-a812-246400445092)
+
+[Frozen Building](https://chatgpt.com/g/g-6853890cca008191b3674cbc7bc7eb1e-frozen-building) specializes in designing and visualizing imaginative architectural structures made of ice, snow, and water. It helps users create detailed and visually stunning frozen environments—ranging from majestic ice palaces and snow-covered castles to glacial bridges and winter-themed pavilions. Using advanced image generation tools, Frozen Building guides users through a step-by-step creative process, offering input on structure shape, lighting effects, material textures, and environmental integration. Whether aiming for fantasy elegance or realistic arctic design, it blends artistic vision with theoretical structural feasibility to bring frozen architecture concepts to life.
+
 #
 
 [Car Design](https://github.com/sourceduty/Car_Design)
