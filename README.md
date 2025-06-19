@@ -87,7 +87,7 @@ Art and design are intertwined creative disciplines that serve as powerful forms
 
 #
 
-![Frozen Building](https://github.com/user-attachments/assets/64736e49-c897-4083-a812-246400445092)
+![Frozen Building](https://github.com/user-attachments/assets/91c5611f-b3a6-4fa6-99af-6c2022823b34)
 
 [Frozen Building](https://chatgpt.com/g/g-6853890cca008191b3674cbc7bc7eb1e-frozen-building) specializes in designing and visualizing imaginative architectural structures made of ice, snow, and water. It helps users create detailed and visually stunning frozen environments—ranging from majestic ice palaces and snow-covered castles to glacial bridges and winter-themed pavilions. Using advanced image generation tools, Frozen Building guides users through a step-by-step creative process, offering input on structure shape, lighting effects, material textures, and environmental integration. Whether aiming for fantasy elegance or realistic arctic design, it blends artistic vision with theoretical structural feasibility to bring frozen architecture concepts to life.
 
